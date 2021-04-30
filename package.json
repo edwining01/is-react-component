@@ -1,0 +1,13 @@
+{
+  "name": "is-react-component",
+  "version": "0.0.0",
+  "description": "Check if argunment is a React component or not.",
+  "main": "index.js",
+  "repository": "https://github.com/edwining01/is-react-component",
+  "author": "Edwin Ting <edwining01@users.noreply.github.com>",
+  "license": "MIT",
+  "private": true,
+  "peerDependencies": {
+    "react": ">= 16.3.0"
+  }
+}
